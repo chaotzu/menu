@@ -1,0 +1,15 @@
+/Users/chaos/Documents/Desarrollo/net/menu/bin/Debug/net6.0/menu
+/Users/chaos/Documents/Desarrollo/net/menu/bin/Debug/net6.0/menu.deps.json
+/Users/chaos/Documents/Desarrollo/net/menu/bin/Debug/net6.0/menu.runtimeconfig.json
+/Users/chaos/Documents/Desarrollo/net/menu/bin/Debug/net6.0/menu.dll
+/Users/chaos/Documents/Desarrollo/net/menu/bin/Debug/net6.0/ref/menu.dll
+/Users/chaos/Documents/Desarrollo/net/menu/bin/Debug/net6.0/menu.pdb
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/menu.csproj.AssemblyReference.cache
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/menu.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/menu.AssemblyInfoInputs.cache
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/menu.AssemblyInfo.cs
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/menu.csproj.CoreCompileInputs.cache
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/menu.dll
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/ref/menu.dll
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/menu.pdb
+/Users/chaos/Documents/Desarrollo/net/menu/obj/Debug/net6.0/menu.genruntimeconfig.cache
